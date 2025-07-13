@@ -3237,7 +3237,7 @@ p {
   display: inline-block;
 }
 .header__area-menubar-left-logo a img {
-  max-width: 165px;
+  max-width: 135px;
   position: relative;
   z-index: 9999;
 }
@@ -4892,6 +4892,7 @@ p {
 /*==========================================================================
 * Brand Area CSS
 ==========================================================================*/
+.brand__area-item  img {max-height: 100px;}
 @media (max-width: 991px) {
   .brand__area {
     padding-top: 80px;
